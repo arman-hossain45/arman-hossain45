@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARMAN HOSSAIN</h1>
-<h3 align="center">UNIVERSITY STUDENT(BSc IN CSIT )</h3>
+<h3 align="center">UNIVERSITY STUDENT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanhossain4550&label=Profile%20views&color=0e75b6&style=flat" alt="armanhossain4550" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [python programing language](https://github.com/armanhossain4550/arman_freelancerSkillDirectory.git)
 
-- 🌱 I’m currently learning **PHP, Laravel, Python, Mysql**
+- 🌱 I’m currently learning ** Python,Machine learning,Deep learning ,Mysql**
 
 - 👯 I’m looking to collaborate on **Python workshop**
 
 - 🤝 I’m looking for help with **Data analysis**
 
-- 💬 Ask me about **Python programing language**
+- 💬 Ask me about **Machine learning Algorithom**
 
 - 📫 How to reach me **armanhossain4550@gmail.com**
 
