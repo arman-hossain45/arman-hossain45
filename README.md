@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [python programing language](https://github.com/armanhossain4550/arman_freelancerSkillDirectory.git)
 
-- 🌱 I’m currently learning ** Python,Machine learning,Deep learning ,Mysql**
+- 🌱 I’m currently learning **Python,Machine learning,Deep learning ,Mysql**
 
 - 👯 I’m looking to collaborate on **Python workshop**
 
