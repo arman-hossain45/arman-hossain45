@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [python programing language](https://github.com/armanhossain4550/arman_freelancerSkillDirectory.git)
 
-- 🌱 I’m currently learning **Python,Machine learning,Deep learning ,Mysql**
+- 🌱 I’m currently learning **Python,Machine learning,Deep learning ,LLM,NLP**
 
 - 👯 I’m looking to collaborate on **Python workshop**
 
-- 🤝 I’m looking for help with **Data analysis**
+- 🤝 I’m looking for help with **MLOPS**
 
-- 💬 Ask me about **Machine learning Algorithom**
+- 💬 Ask me about **Machine learning Algorithom,Deep Learning,LLM,NLP**
 
 - 📫 How to reach me **armanhossain4550@gmail.com**
 
